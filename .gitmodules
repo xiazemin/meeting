@@ -1,0 +1,12 @@
+[submodule "ion"]
+	path = ion
+	url = https://github.com/pion/ion
+[submodule "ion-app-flutter"]
+	path = ion-app-flutter
+	url = https://github.com/pion/ion-app-flutter
+[submodule "ion-app-web"]
+	path = ion-app-web
+	url = https://github.com/pion/ion-app-web
+[submodule "ion-sdk-js"]
+	path = ion-sdk-js
+	url = https://github.com/pion/ion-sdk-js
