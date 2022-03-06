@@ -10,3 +10,15 @@
 [submodule "ion-sdk-js"]
 	path = ion-sdk-js
 	url = https://github.com/pion/ion-sdk-js
+[submodule "websocket/gRPC-Web/grpc-web"]
+	path = websocket/gRPC-Web/grpc-web
+	url = https://github.com/grpc/grpc-web
+[submodule "webrtc"]
+	path = webrtc
+	url = https://github.com/pion/webrtc
+[submodule "stun"]
+	path = stun
+	url = https://github.com/pion/stun
+[submodule "turn"]
+	path = turn
+	url = https://github.com/pion/turn
